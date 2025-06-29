@@ -1,5 +1,5 @@
 /** @format */
 
-const API_URL = 'http://172.188.170.51/';
+const API_URL = 'http://57.155.219.49/';
 const REACT_URL = 'http://localhost:3000/';
 export { API_URL, REACT_URL };
