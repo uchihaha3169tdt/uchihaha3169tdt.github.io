@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Hà Nội",
+    "code": "HANOI"
+  },
+  {
+    "id": 2,
+    "name": "Hồ Chí Minh",
+    "code": "TPHCM"
+  },
+  {
+    "id": 3,
+    "name": "Đà Nẵng",
+    "code": "DANANG"
+  },
+  {
+    "id": 4,
+    "name": "Hải Phòng",
+    "code": "HAIPHONG"
+  },
+  {
+    "id": 5,
+    "name": "Nghệ An",
+    "code": "NGHEAN"
+  },
+  {
+    "id": 6,
+    "name": "Quảng Ninh",
+    "code": "QUANGNINH"
+  },
+  {
+    "id": 7,
+    "name": "Huế",
+    "code": "HUE"
+  },
+  {
+    "id": 8,
+    "name": "Cần Thơ",
+    "code": "CANTHO"
+  },
+  {
+    "id": 9,
+    "name": "Lâm Đồng",
+    "code": "LAMDONG"
+  },
+  {
+    "id": 10,
+    "name": "Bình Dương",
+    "code": "BINHDUONG"
+  },
+  {
+    "id": 11,
+    "name": "Bình Thuận",
+    "code": "BINHTHUAN"
+  },
+  {
+    "id": 12,
+    "name": "Quảng Nam",
+    "code": "QUANGNAM"
+  },
+  {
+    "id": 13,
+    "name": "Nam Định",
+    "code": "NAMDINH"
+  },
+  {
+    "id": 14,
+    "name": "Thái Bình",
+    "code": "THAIBINH"
+  },
+  {
+    "id": 15,
+    "name": "Thanh Hóa",
+    "code": "THANHHOA"
+  },
+  {
+    "id": 16,
+    "name": "Quảng Trị",
+    "code": "QUANGTRI"
+  },
+  {
+    "id": 17,
+    "name": "Ninh Bình",
+    "code": "NINHBINH"
+  },
+  {
+    "id": 18,
+    "name": "Hòa Bình",
+    "code": "HOABINH"
+  },
+  {
+    "id": 19,
+    "name": "Vĩnh Phúc",
+    "code": "VINHPHUC"
+  },
+  {
+    "id": 20,
+    "name": "Phú Thọ",
+    "code": "PHUTHO"
+  },
+  {
+    "id": 239,
+    "name": "Sa Đéc",
+    "code": "SADEC"
+  }
+]
