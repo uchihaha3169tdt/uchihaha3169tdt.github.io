@@ -2,6 +2,12 @@
 
 Ứng dụng web đặt vé xe khách được xây dựng với React, Firebase và Tailwind CSS.
 
+## 🚀 Bắt đầu nhanh
+
+**Mới bắt đầu?** Đọc [Hướng dẫn nhanh (QUICKSTART.md)](QUICKSTART.md) - Chỉ 3 bước đơn giản để chạy và deploy!
+
+---
+
 ## 📋 Mục Lục
 - [Yêu cầu hệ thống](#yêu-cầu-hệ-thống)
 - [Cài đặt và chạy local](#cài-đặt-và-chạy-local)
